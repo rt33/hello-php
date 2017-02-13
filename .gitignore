@@ -1,0 +1,29 @@
+# ETC
+## JetBrains
+.idea/
+
+## Mac
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+## Icon must end with two \r
+Icon
+
+## Thumbnails
+._*
+
+# PHP
+## Composer
+composer.phar
+/vendor
+
+##PHP Coding Standards Fixer
+.php_cs.cache
+
+# frontend
+## npm
+npm-debug*.log
+
+## node
+node_modules/
